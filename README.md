@@ -1,3 +1,3 @@
-# Rapid
+# Hello
 
-Rapid is a go module that interfaces with RapidAPI
+Hello is an example go module that shows how to structure a basic go program
